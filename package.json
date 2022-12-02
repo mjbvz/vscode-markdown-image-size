@@ -3,7 +3,7 @@
   "version": "0.0.4",
   "displayName": "Markdown Image Size",
   "icon": "logo/logo.png",
-  "description": "Adds ![](./cat.gif =100x200) image support to VS Code's built-in markdown preview. You can specify a single dimension '=100x' or '=x100' to resize the image keeping the aspect ratio.",
+  "description": "Adds ![](./cat.gif =100x200) image support to VS Code's built-in markdown preview.",
   "keywords": [
     "image",
     "image size",
